@@ -1,2 +1,7 @@
-print("hello world")
-print("This is a sample Python script.")
+import augmentation
+import models
+import preprocessing
+
+
+def main():
+    print("dummy main")
